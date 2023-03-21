@@ -50,7 +50,8 @@
 		"sv-SE": "Svenska",
 		"es-CO": "Español",
 		"de-DE": "Deutsch",
-		"fr-FR": "Français"
+		"fr-FR": "Français",
+		"uk-UA": "Українська"
 	},
 	"pages": {
 		"404": {
@@ -236,7 +237,7 @@
 		"Reptile": "Reptile",
 		"Solid Colors": "Couleurs unies",
 		"Classic": "Classique",
-		"Events": "Événements",
-		"Cliffside": "Falaise"
+		"Cliffside": "Falaise",
+		"Events": "Événements"
 	}
 }
